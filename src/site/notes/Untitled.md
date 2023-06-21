@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/untitled/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/untitled/"}
 ---
 
 content content content things arent updating?
