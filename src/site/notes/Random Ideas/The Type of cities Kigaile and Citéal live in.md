@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/random-ideas/the-type-of-cities-kigaile-and-citeal-live-in/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/random-ideas/the-type-of-cities-kigaile-and-citeal-live-in/"}
 ---
 
 I haven’t seen this landscape done before and I think it could end up really unique and beautiful.
