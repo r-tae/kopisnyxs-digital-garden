@@ -15,3 +15,10 @@ This is Viturdesh in a readable, minimal, typed font. It's the way the language 
 { .ViturdeshP }
 
 ___
+# Heading One
+## Heading Two
+### Heading Three
+#### Heading Four
+##### Heading Five
+###### Heading Six
+
