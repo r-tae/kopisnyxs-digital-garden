@@ -6,8 +6,8 @@
     font-family: 'viturdesh_proper_typeregular';
     src: url("https://github.com/KopisNyx/my-digital-garden/blob/main/src/site/styles/webfontkit-20230627-010711/viturdeshpropertype-regular-webfont.woff2") format('woff2'),
          url("https://github.com/KopisNyx/my-digital-garden/blob/main/src/site/styles/webfontkit-20230627-010711/viturdeshpropertype-regular-webfont.woff") format('woff'),
-         url("") format('OpenType'),
-         url("") format('TrueType');
+         url("https://github.com/KopisNyx/my-digital-garden/blob/main/src/site/styles/webfontkit-20230627-010711/ViturdeshProperType-Regular.otf") format('OpenType'),
+         url("https://github.com/KopisNyx/my-digital-garden/blob/main/src/site/styles/webfontkit-20230627-010711/ViturdeshProperType-Regular.ttf") format('TrueType');
     font-weight: normal;
     font-style: normal;
 
