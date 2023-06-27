@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/font-catalogue/","noteIcon":""}
 ---
 
-
 ## **Childs Viturdesh**
 This is technically my very first draft of the symbols used for the entire alphabet of the language. Because it's a bit scribbly and not very well refined I imagine it might be what the language would look like if written by a child whose learning it.
 
