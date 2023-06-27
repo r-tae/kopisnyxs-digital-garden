@@ -21,5 +21,3 @@ ___
 #### Heading Four
 ##### Heading Five
 ###### Heading Six
-
-If only I could get the custom font to work
