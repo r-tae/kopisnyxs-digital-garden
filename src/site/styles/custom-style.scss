@@ -1,22 +1,6 @@
-// Enable CORS on 11ty > headers: {"Access-Control-Allow-Origin": "*"}
-// Edit: eleventy.js:
 
-module.exports = function(eleventyConfig) {
-  eleventyConfig.setBrowserSyncConfig({
-    middleware: function (req, res, next) {
-        res.setHeader('Access-Control-Allow-Origin', '*');
-        next();
-      }
-    });
-};  
 
-// References: https://medium.com/@matthewcrist/how-to-enable-cors-in-browsersync-6389e911764b
 
-<FilesMatch "\.(ttf|otf|eot|woff|woff2)$">
-  <IfModule mod_headers.c>
-    Header set Access-Control-Allow-Origin "https://my-digital-garden-git-main-kopisnyx.vercel.app/"
-  </IfModule>
-</FilesMatch>
 
 @font-face {
 	font-family: 'ViturdeshC';
